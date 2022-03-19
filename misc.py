@@ -18,6 +18,6 @@ HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
 **/lyric** __Get Lyric of Currently Playing Music. It is possible to get wrong lyrics. To increase trueness possibility use deezer or saavn__"""
 
 REPO_TEXT = (
-    "[Github](https://github.com/thehamkercat/Telegram_vc_bot)"
-    + " | [Group](t.me/TGVCSUPPORT)"
+    "[Github](https://github.com/Navya-developer/Glitch_Vc)"
+    + " | [Group](t.me/NDSUPPORT)"
 )
